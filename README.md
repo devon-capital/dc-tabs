@@ -1,5 +1,7 @@
 # dc-tabs
 
+## dc-tabs is no longer maintained. Please consider using [ivy-tabs](https://github.com/IvyApp/ivy-tabs) instead.
+
 **NOTE**: This addon is a port from [http://instructure.github.io/ic-tabs](http://instructure.github.io/ic-tabs) into an ember-cli addon. The port was made out of samheucks fork on the master branch @ad25734fdb and then changed to lazy render tabs. This fork was made as ic-tabs seemed to have stopped being maintained and it needed updating to the latest ember version and tools.
 
 Todos:
